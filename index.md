@@ -14,5 +14,5 @@
   - VIM
 - [docker](https://cgh2.github.io/docker101/) : setting up python environment a breeze
  - 123
-   -*i777*
+   - *i777*
    - VIM
