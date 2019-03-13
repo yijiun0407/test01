@@ -8,6 +8,7 @@
 - **高清相簿** : depends on you
   - [20181111 NBS 龍舟隊 x 1111 光棍日 x 竹吟生日快樂 x 阿文、小孟、Phil、新東陽第一划](https://photos.google.com/share/AF1QipOXXz_KLYiVel5v_d9LeB_RPGNloJjNzRbDxQ6k468jWQfUP4Hqxa4zvtDYQTIOsw?key=MWJOSlkzNlY0czI2Y0xTWDlqclhGdmcteE9CV0ln)
   - [20181118 NBS 龍舟隊 x 賞芒 x 四隻小鴨 x 詩涵生日快樂 x 阿水迎新 x 米奇妙妙舞](https://photos.google.com/share/AF1QipP4SafsrYaLt4PZhlLlQBcKaorkP-NsTVf3A15Lls9Evk9s_pUvJ2hnUXvr80hj5Q?key=NHZxemlYT3JaVVBiR2tGajNZRTVFR0p4dWlfV2xn)
+  - [20181125 NBS 龍舟隊 x 詩涵初舵 x 羽迎新 x S12試划 x NBS集點卡 x 燒肉同話](https://photos.google.com/share/AF1QipO8soMCix_AhyaK-O28oXTnheaWJoY5PLzDc9Fq_VpLXEiapNnB_G_PK0Z9vrtekw?key=cnhHMnFRc1ByRXhVME5jdG1lME1ra2tiS1Qtd2xB)
   - [20181209 NBS 龍舟隊 x 入水起跑加強 x 測速 x S12 x 蝌蚪長腳😊](https://photos.google.com/share/AF1QipNxF3VwGY-Mn7IpR_-KzSaT2EtyRjWNbq2gWkMm8Fe1UU-bno5bwWCQppGl3idxdw?key=VGUxTnBXY3NLUld0eUpqOFQ0dEc5WkF2Q3FYeWhn)
   - [20181222 NBS龍舟隊 x 湯圓日](https://photos.google.com/share/AF1QipPd-DD32WyFrA8L9JXcDQdzcMuhYSJM0tLRKEG7Le01PilZFSUP54lp8ke9MMS9ig?key=MHZGYk5vU3k3Qk5fZmpPckh2ZnFKSGZWLUpzcmJB)  
   - [20190106 NBS 龍舟隊 x 花蓮賽前練習1 × Team Max x 咘咕鍋](https://photos.google.com/share/AF1QipNdtBJ-JpVHKx1Mn4qS1h_spraMgk0s-4S8oum_924OCSceOH1WPagcRql-GhlRJg?key=a0lCelItWVVrOXMtT2NSaFlpbnJXUzQ4NDBXU2xB)
