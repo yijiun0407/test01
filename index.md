@@ -16,6 +16,7 @@
   - [20190127_NBS龍舟隊 x 花蓮賽前練習4 x 努力為本運動毛巾 x 男生多多日 x 艾瑞克生日快樂 x 羊肉爐吃飽飽](https://photos.google.com/share/AF1QipNlz3LNYCe637WUtEwbx7OSS95kfzyKK8bF6nB3vFHw1NxcAUxUJ6rzj71MGC-yRg?key=SkFPdUVkdVVZZHUtVXRwTnVkN0VWUlJrNnhjaXd3)
   - [20190217_NBS 龍舟隊 x 花蓮賽前練習6 x S12紫藍開箱 x 混龍 x 小女龍 尬船側拍 😏 x JoAn & 小可愛 歡迎加入😉](https://photos.google.com/share/AF1QipNLCQYBnq-K-yCogSL-QmWEGb2nLfBb8MZcQeAM9UDPxCZHDl6oH5nFOfl6xt6x8w?key=RVpMNW42MWVkeF8yY3hNaGJGVDZkaDVKNHZla3R3)
   - [20190224_NBS龍舟隊 x 花蓮賽前練習7 x 尬船 x 皮卡ho慶生🤣](https://photos.google.com/share/AF1QipNg_n_GNTPRziaKkm5qMdDQwcnTm7JCxrA_gpPO1rj7ftvk1s0S8LmYkLwXMptYdA?key=MzdaRmNQcmJRQnV5MmVMSk50UzhwdUhBaTM2a3pR)
+  - [20191209_NBS 龍舟隊 x 入水起跑加強 x 測速 x S12 x 蝌蚪長腳😊 ](https://photos.google.com/share/AF1QipNxF3VwGY-Mn7IpR_-KzSaT2EtyRjWNbq2gWkMm8Fe1UU-bno5bwWCQppGl3idxdw?key=VGUxTnBXY3NLUld0eUpqOFQ0dEc5WkF2Q3FYeWhn)  
   - VIM
 - [docker](https://cgh2.github.io/docker101/) : setting up python environment a breeze
  - 123
