@@ -1,6 +1,6 @@
 ![drangon boat](image001.png)
 ## 競技龍舟錦標賽
-- **2019 花蓮國際太平洋龍舟賽**台灣第一女龍XDD
+### - 2019 花蓮國際太平洋龍舟賽** **台灣第一女龍XDD**
 - **virtualenv** : what and why?
 - **python function & module** : must know and must learn to use
 - **bpython** : realtime coding demo
