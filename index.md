@@ -1,5 +1,5 @@
-![丸作食茶](/下載.jpeg)
-## ABC
+![丸作食茶](image001.png)
+## 競技龍舟錦標賽
 - **python2  or python 3**, which one?
 - **virtualenv** : what and why?
 - **python function & module** : must know and must learn to use
